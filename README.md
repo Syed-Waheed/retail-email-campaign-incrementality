@@ -497,7 +497,9 @@ The original dataset remains subject to its source's terms. This repository prov
 I enjoy turning raw data into clear business decisions — combining SQL analysis, statistical reasoning, dashboards, and predictive methods to understand what changed, how certain the evidence is, and what a business should consider doing next.
 
 <br /><br />
-
+<a href="https://www.linkedin.com/in/syed-abdul-waheed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 <a href="https://github.com/waheed24-03">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
 </a>

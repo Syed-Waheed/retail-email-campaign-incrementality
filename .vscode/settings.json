@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "name": "Email Experiment",
+            "database": "Project3/data/email_experiment.duckdb"
+        }
+    ]
+}

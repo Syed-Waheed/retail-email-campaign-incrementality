@@ -1,0 +1,33 @@
+
+# Personal interview preparation
+/Interview text.ipynb
+
+# Backup notebooks
+/backup/
+**/backup/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# DuckDB local database and temporary files
+*.duckdb.wal
+/data/*.duckdb
+
+# Original third-party dataset
+/data/Kevin_Hillstrom_MineThatData_E-MailAnalytics_DataMiningChallenge_2008.03.20.csv
+
+# Tableau temporary files
+.~*
+*.twbr
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env

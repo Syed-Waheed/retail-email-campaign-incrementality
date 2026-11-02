@@ -1,0 +1,3 @@
+Campaign,Treatment customers,Treatment conversions,Treatment conversion rate (%),Control customers,Control conversions,Control conversion rate (%),Conversion lift (pp),95% CI lower (pp),95% CI upper (pp)
+Mens E-Mail,21307,267,1.253109306800582,21306,122,0.5726086548390125,0.6805006519615695,0.5014344671481532,0.8640723396917827
+Womens E-Mail,21387,189,0.8837144059475383,21306,122,0.5726086548390125,0.3111057511085258,0.1501657131877008,0.4745471313672931

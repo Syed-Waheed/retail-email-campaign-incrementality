@@ -61,7 +61,7 @@ The objective is not simply to compare campaign averages. It is to estimate trea
 
 ---
 
-# ⚡ TL;DR — Key Findings
+#  TL;DR — Key Findings
 
 - **Both email treatments improved all three measured outcomes** relative to the randomized No Email control: visit rate, conversion rate, and average spend per randomized customer.
 - **Men's Email had the larger observed average lift** across visits (+7.6590 percentage points), conversions (+0.6805 percentage points), and spend (+$0.7698 per customer).
@@ -75,7 +75,7 @@ The objective is not simply to compare campaign averages. It is to estimate trea
 
 ---
 
-# 🧪 Experiment Design & Dataset
+#  Experiment Design & Dataset
 
 ## Dataset source
 

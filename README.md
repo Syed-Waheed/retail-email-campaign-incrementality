@@ -61,7 +61,7 @@ The objective is not simply to compare campaign averages. It is to estimate trea
 
 ---
 
-# ⚡ TL;DR — Key Findings
+#  TL;DR — Key Findings
 
 - **Both email treatments improved all three measured outcomes** relative to the randomized No Email control: visit rate, conversion rate, and average spend per randomized customer.
 - **Men's Email had the larger observed average lift** across visits (+7.6590 percentage points), conversions (+0.6805 percentage points), and spend (+$0.7698 per customer).
@@ -75,7 +75,7 @@ The objective is not simply to compare campaign averages. It is to estimate trea
 
 ---
 
-# 🧪 Experiment Design & Dataset
+#  Experiment Design & Dataset
 
 ## Dataset source
 
@@ -497,7 +497,9 @@ The original dataset remains subject to its source's terms. This repository prov
 I enjoy turning raw data into clear business decisions — combining SQL analysis, statistical reasoning, dashboards, and predictive methods to understand what changed, how certain the evidence is, and what a business should consider doing next.
 
 <br /><br />
-
+<a href="https://www.linkedin.com/in/syed-abdul-waheed/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 <a href="https://github.com/waheed24-03">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
 </a>

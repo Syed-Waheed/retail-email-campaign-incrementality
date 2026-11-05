@@ -36,7 +36,7 @@
   <strong>Executive view of campaign lift, uncertainty, customer-segment response, and scenario-based profitability.</strong>
 </p>
 
-**Tableau Public publication:** Pending. No public dashboard URL is claimed yet. The current Tableau workbook is available at [`dashboard/Retail Email Campaign.twb`](dashboard/Retail%20Email%20Campaign.twb).
+**Tableau Public publication:** Pending. No public dashboard URL is claimed yet. The current Tableau workbook is available at [`dashboard/Retail Email Campaign.twb`](dashboard/Retail%20Email%20Campaign.twbx).
 
 ---
 
